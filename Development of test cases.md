@@ -1,15 +1,15 @@
-Functional tests:
+### Functional tests:
 ##### 1. Test for calculating the percentage of correct answers
 __Precondition__
-  * The user has completed the test. 
+    The user has completed the test.
 __Steps:__ 
-  * Complete the test with 10 questions, of which 7 are correct. 
-  * Check that the percentage of correct answers is displayed (70%). 
-__Expected result:__
-* The user sees the total percentage of correct answers, a list of incorrect answers and recommendations.
----
+Complete the test with 10 questions, of which 7 are correct.
+Check that the percentage of correct answers is displayed (70%).
+__Expected result:__ 
+The user sees the total percentage of correct answers, a list of incorrect answers and recommendations.
+___
 ##### 2. Test for displaying incorrect answers with explanations
-__condition__
+  __Precondition__
 The test contains incorrect answers.
 __Steps:__ 
 Complete the test and select 3 incorrect answers.
@@ -18,7 +18,7 @@ __Expected result:__
 Each incorrect answer has an appropriate explanation.
 ___
 ##### 3. Test for taking into account the time of passing the test
-__condition__
+__Precondition__
 The user starts the test.
 __Steps:__
 Start the test with a timer for 20 minutes.
@@ -41,13 +41,13 @@ __Precondition__
 The user is on the test page.
 __Steps:__
 Start taking the test.
-&nbsp;Simulate connection loss.
+Simulate connection loss.
 Check that the system handles the connection loss correctly.
 __Expected result:__ 
 A connection loss message appears with the option to reconnect or save the intermediate result.
 ___
 ##### 6. Test for completing the test ahead of time
-__condition__
+__Precondition__
 The user is on the test page.
 __Steps:__
 Complete the test before the time expires.
