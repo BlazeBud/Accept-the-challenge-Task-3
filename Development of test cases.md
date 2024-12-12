@@ -7,7 +7,7 @@ Complete the test with 10 questions, of which 7 are correct.
 Check that the percentage of correct answers is displayed (70%).
 __Expected result:__ 
 The user sees the total percentage of correct answers, a list of incorrect answers and recommendations.
-___
+
 ##### 2. Test for displaying incorrect answers with explanations
   __Precondition__
 The test contains incorrect answers.
