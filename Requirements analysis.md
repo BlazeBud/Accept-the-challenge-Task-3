@@ -9,7 +9,7 @@
 3. __Notes:__
 * What recommendations will be provided to the user? Will these be recommendations for improving knowledge or just tips on the topics of the test?
 * How will the recommendation system work for different types of users: beginners, experienced or experts?
-4. _The time of passing the test:__
+4. __The time of passing the test:__
 * It is necessary to clarify how the situation will be handled when the user completes the test before the end of time, but does not click the "Finish" button. How will the time be taken into account?
 * Is there a need for differences in the timing mechanism (for example, different timers for different types of tests)?
 * Is there a requirement for the accuracy of time tracking (for example, up to a second)?
