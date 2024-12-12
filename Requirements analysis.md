@@ -1,6 +1,6 @@
 ## Requirements analysis: potential gaps and clarifying questions
 ##### Gaps and questions that may arise:
-1. _The total percentage of correct answers:__
+1. __The total percentage of correct answers:__
 * How will partial completion of tasks be taken into account (for example, multiple choice questions or grade points)? It is necessary to clarify how the percentage of correct answers is calculated for different types of questions. 
 * How will the result be displayed for tests with multiple attempts? Will the result of the last attempt be shown or will the result of all attempts be aggregated?
 2. __List of incorrect answers with explanations:__
