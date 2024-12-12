@@ -1,12 +1,13 @@
-### Functional tests:
+Functional tests:
 ##### 1. Test for calculating the percentage of correct answers
- __Precondition.__
-   * The user has completed the test.  __Steps:__ 
- Complete the test with 10 questions, of which 7 are correct.
- Check that the percentage of correct answers is displayed (70%).
-1.3 __Expected result:__ 
+__Precondition__
+  * The user has completed the test. 
+__Steps:__ 
+  * Complete the test with 10 questions, of which 7 are correct. 
+  * Check that the percentage of correct answers is displayed (70%). 
+__Expected result:__
 * The user sees the total percentage of correct answers, a list of incorrect answers and recommendations.
-___
+---
 ##### 2. Test for displaying incorrect answers with explanations
 __condition__
 The test contains incorrect answers.
